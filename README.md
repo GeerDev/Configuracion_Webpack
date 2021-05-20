@@ -15,7 +15,7 @@ Construimos la build de desarrollo:
 ## Arreglando un error con npm start y window 10
 He tenido que fixear un error que ocurre con npm start en windows 10
 Error: Error: spawn cmd ENOENT
-[Colacar Variables de Entorno en Windows 10](https://i.stack.imgur.com/xqYmM.jpg)
+[Colocar Variables de Entorno en Windows 10](https://i.stack.imgur.com/xqYmM.jpg)
 
 ## Funcionalidades Webpack
 1. Módulos para dividir el código en fragmentos para escalar aplicaciones (Importación/Exportación de módulos)
